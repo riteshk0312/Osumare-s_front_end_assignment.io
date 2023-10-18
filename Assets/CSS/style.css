@@ -1,0 +1,434 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+ 
+}
+
+/* navbar  CSS*/
+
+.btn1 {
+  border-radius: 20px !important;
+  padding: 10px 20px !important;
+  margin-top: 0.5rem !important;
+}
+.collapse {
+  padding-left: 62%;
+}
+
+.mydiv img {
+  height: 100px;
+  width: 172px;
+  margin-left: 77px;
+}
+
+/* navbar end */
+
+/* section1 start */
+
+.div1 {
+  height: 100vh;
+  width: 98vw;
+  text-align: center;
+  background-image: url(../Images/Ellipse\ 190.png);
+  background-size: cover;
+  background-position: right-center;
+  background-repeat: no-repeat;
+}
+
+.btn2 {
+  border-radius: 20px !important;
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+}
+
+.img1 {
+  position: relative;
+  top: 10vh;
+  height: 60vh;
+  width:60vw;
+}
+
+span {
+  color: blue;
+  font-weight: bolder;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h1 p {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+/* section1 end */
+
+/* section2 start */
+
+.div2 {
+
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.sec1 img {
+  width: 45vw;
+  height:50vh;
+}
+
+.div3 {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.sec2 h1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.sec2 p{
+    
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.btn3 {
+  border-radius: 20px !important;
+ 
+
+  display: flex;
+padding: 16.5px 64px;
+justify-content: center;
+align-items: center;
+gap: 4px;
+margin-top: 3rem;
+}
+
+/* section2 end */
+
+
+
+/* section3 start*/
+
+.div4{
+    text-align: center;
+}
+
+.div5{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.mycard{
+    height: 239px;
+    width: 297px;
+}
+
+.div6{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.btn4{
+    border-radius: 20px !important;
+    display: flex;
+  padding: 16.5px 64px;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+  margin-top: 3rem;
+  margin-left: 42%;
+  }
+/* section3 end */
+
+
+
+/* section4 start */
+
+.mainsection{
+    
+    display: flex;
+    justify-content: stretch;
+    
+}
+
+.div8{
+        
+        display: flex;
+        justify-content: space-evenly;
+        text-align: center;
+        align-items: center;
+
+        
+}
+
+.div9{
+ 
+ padding-left: 10vh
+ 
+    
+}
+
+.div9 h1{
+    font-weight: 600;
+}
+
+.div9 p{
+    font-weight: 400;
+}
+
+.div10 img {
+    height: 80vh;
+    width: 50vw;
+    float: right;
+    
+}
+
+
+.section1{
+    height: 80vh;
+    width: 50vw;
+}
+.sec4{
+    text-align: center;
+}
+.section2{
+    height: 80vh;
+    width: 50vw;
+}
+
+
+.div11{
+    padding: 10px;
+    margin: 10px;
+}
+.section1{
+    height: 50vh;
+    width: 50vw;
+}
+
+
+/* section4 end */
+
+/* section5 start */
+
+.sec5{
+    text-align: center;
+    font-weight: 700;
+}
+
+.sec6{
+    text-align: center;
+    font-weight: 400;
+}
+
+.div12 img{
+ width: 30vw;
+ height: 50vh;
+}
+
+.section5{
+    display: flex;
+    justify-content: stretch;
+    padding-left: 10%;
+}
+
+.div13 p{
+    
+    font-family: Open Sans;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    }
+    .btn5{
+        border-radius: 20px !important;
+        display: flex;
+      padding: 16.5px 64px;
+      justify-content: center;
+      align-items: center;
+      gap: 4px;
+      margin-top: 3rem;
+      margin-left: 32%;
+      }
+
+
+    
+    
+/* section5 end */
+
+/* section6 */
+
+.sec6{
+    text-align: center;
+    font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px; 
+}
+
+.mainsection2{
+    display: flex;
+    /* text-align: center; */
+    justify-content: space-evenly;
+    height: 50vh;
+    width:auto ;
+}
+.mainsection3{
+    display: flex;
+    /* text-align: center; */
+    justify-content: space-evenly;
+    height: 50vh;
+    width: auto;
+}
+
+.mycard{
+    text-align: center;
+    padding: 20px !important;
+
+}
+
+
+
+/* section6 */
+
+/* section8 */
+
+.thediv1{
+    text-align: center;
+    background: url(../Images/Ellipse\ 192.png) no-repeat right;
+    background: url(../Images/Ellipse\ 193.png) no-repeat left;
+    
+}
+.btn8 {
+    border-radius: 20px !important;
+   
+  margin-left:42vw;
+    display: flex;
+  padding: 16.5px 64px;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+    
+  }
+
+  .thediv1{
+    height: 80vh;
+
+  }
+
+  
+
+
+/* section8 */
+
+/* section9 */
+
+.thediv9{
+    text-align: center;
+}
+/* section9 */
+
+/* section10 */
+.thediv10{
+    text-align: center;
+    height: 376.75px !important;;
+    width: 98vw !important;
+    padding: 0px 240px ;
+}
+
+.mycollapse{
+  padding: 0;
+}
+/* section10 */
+
+/* section11 */
+
+.thediv11{
+    height: 80vh;
+    display: flex;
+    justify-content:space-evenly ;
+    
+        text-align: center;
+        background: url(../Images/Ellipse\ 192.png) no-repeat right;
+        background: url(../Images/Ellipse\ 193.png) no-repeat left;
+       
+    
+}
+.fs-4{
+padding: 10px;
+    margin-right: 90%;
+}
+
+
+/* section/11 */
+
+/*section12 */
+
+.col img{
+    width: 124px;
+    height: 72px;
+}
+
+.thediv12{
+    display: flex;
+
+}
+
+.div123 {
+    display: flex;
+    justify-content: center;
+    padding: 32px 16px;
+    flex-direction: row;
+    align-items: center;
+    row-gap: 2rem;
+}
+
+.svg1 {
+    width: 52px;
+    height: 52px;
+    flex-shrink: 0;
+    background-color: gainsboro;
+    border-radius: 50px;
+    /* background-image: url(../Images/Seo.png); */
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+i{margin-bottom: 10px ;}
+
+
+
+/* section12 */
+.contact{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+input[type=text],
+input[type=tel],
+input[type=email],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+
+.btn11{
+    
+    border-radius: 20px !important;
+}
